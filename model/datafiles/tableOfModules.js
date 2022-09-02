@@ -80,3 +80,5 @@ export let tableOfModules = [
       ModuleImageURL: "https://images.freeimages.com/images/small-previews/402/rocket-in-the-museum-1450195.jpg"
     }
   ];
+
+  export default tableOfModules;

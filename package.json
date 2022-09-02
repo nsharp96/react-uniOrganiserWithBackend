@@ -19,7 +19,10 @@
   },
   "homepage": "https://github.com/nsharp96/react-uniOrganiserWithBackend#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "mysql2": "^2.3.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
